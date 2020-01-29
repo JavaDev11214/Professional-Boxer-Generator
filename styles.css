@@ -28,12 +28,12 @@ p {
   color: white;
   margin-bottom: 7px;
   margin-top: 3px;
-  font-family: arial, verdana, serif;
+  font-family: arial, verdana, serif, "Times New Roman";
 }
 
 h2 {
   text-align: center;
-  font-family: monospace, times new roman, serif;
+  font-family: monospace, helvetica, serif;
   color: white;
   margin-top: 3px;
   text-decoration: underline;
@@ -50,7 +50,7 @@ img {
 
 h1 {
   text-align: center;
-  font-family: Arial;
+  font-family: Arial, helvetica, sans-serif;
   color: white;
 }
 
@@ -61,12 +61,6 @@ h1 {
     width: 500px;
     padding: 1em;
     position: relative;
-    margin: 200px auto;
-  }
-  h1 {
-    text-align: center;
-    font-family: Arial;
-    color: white;
-    font-size: 20px;
+    margin: auto;
   }
 }
